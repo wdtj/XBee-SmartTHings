@@ -1,1 +1,1 @@
-# XBee-SmartTHings
+# XBee-SmartThings
